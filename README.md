@@ -63,7 +63,8 @@ shiny::runApp("app")
 ---
 
 ## 📊 Dashboard Preview
-*(Add a screenshot of your Shiny App here before pushing to GitHub)*
+<img width="670" height="521" alt="image" src="https://github.com/user-attachments/assets/da3787b0-f6b6-4d2b-a5f9-11a0b53d02bd" />
+
 
 The dashboard allow users to:
 1. Input synthetic or real patient biomarker profiles.
